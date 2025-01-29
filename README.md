@@ -28,7 +28,7 @@ This repository contains code for generating novel research ideas in the field o
 
 The notebook files ```SciAgents_ScienceDiscovery_GraphReasoning_non-automated.ipynb``` and ```SciAgents_ScienceDiscovery_GraphReasoning_automated.ipynb``` in the Notebooks directory correspond to the non-automated and automated multi-agent frameworks, respectively, as explained in the accompanying paper.
 
-The automated multi-agent model is implemented in [AutoGen](https://github.com/microsoft/autogen), an open-source ecosystem for agent-based AI modeling. 
+The automated multi-agent model is implemented in [AG2](https://github.com/ag2ai/ag2?tab=readme-ov-file) (Formerly AutoGen), an open-source ecosystem for agent-based AI modeling. 
 
 ### Audio file generation (podcast style, lecture, summary and others)
 

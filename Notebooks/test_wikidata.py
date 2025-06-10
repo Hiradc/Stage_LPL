@@ -84,6 +84,6 @@ if __name__ == "__main__":
         else:
             print(f"\n🔗 {len(chemins)} chemin(s) trouvé(s) :")
             for chemin in chemins:
-                print("➡️", chemin)
+                print(chemin)
     except Exception as e:
         print("❗ Erreur :", e)
